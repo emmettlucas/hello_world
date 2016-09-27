@@ -1,2 +1,3 @@
 # hello_world
-First repository. Testing out GitHub
+First repository. Testing out GitHub.
+Learnin the ropes.
